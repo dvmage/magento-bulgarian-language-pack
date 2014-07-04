@@ -1,0 +1,55 @@
+<!--@subject Здравейте, {{var customer.name}}! @-->
+<!--@vars
+{"store url=\"\"":"Store Url",
+"skin url=\"images/logo_email.gif\" _area='frontend'":"Лого за имейл",
+"htmlescape var=$customer.name":"Име на клиент",
+"store url=\"customer/account/\"":"Url към клиентски профил",
+"var customer.email":"Имейл на клиент",
+"htmlescape var=$customer.password":"Парола на клиент"}
+@-->
+
+<!--@styles
+body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; }
+@-->
+
+<body style="background:#F6F6F6; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; margin:0; padding:0;">
+<div style="background:#F6F6F6; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; margin:0; padding:0;">
+<table cellspacing="0" cellpadding="0" border="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top" style="padding:20px 0 20px 0">
+                <!-- [ header starts here] -->
+                <table bgcolor="FFFFFF" cellspacing="0" cellpadding="10" border="0" width="650" style="border:1px solid #E0E0E0;">
+                    <tr>
+                        <td valign="top">
+                            <a href="{{store url=""}}"><img src="{{skin url="images/logo_email.gif" _area='frontend'}}" alt="{{var store.getFrontendName()}}"  style="margin-bottom:10px;" border="0"/></a></td>
+                    </tr>
+                <!-- [ middle starts here] -->
+                    <tr>
+                        <td valign="top">
+                            <h1 style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;"">Уважаеми(а) {{htmlescape var=$customer.name}},</h1>
+                            <p style="font-size:12px; line-height:16px; margin:0 0 16px 0;">Добре дошли в електронния магазин "{{var store.getFrontendName()}}". За да влезете като потребител на сайта ни просто кликнете върху <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">Вход</a> или <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">Моят Профил</a> в горната част на всяка страница, след което въведете вашия имейл и парола.</p>
+                            <p style="border:1px solid #E0E0E0; font-size:12px; line-height:16px; margin:0; padding:13px 18px; background:#f9f9f9;">
+                                Използвайте следните данни, за да влезете като потребител:<br/><br/>
+                                <strong>Имейл</strong>: {{var customer.email}}<br/>
+                                <strong>Парола</strong>: {{htmlescape var=$customer.password}}<p>
+                            <p style="font-size:12px; line-height:16px; margin:0 0 8px 0;">След като влезете като потребител, вие ще можете:</p>
+                            <ul style="font-size:12px; line-height:16px; margin:0 0 16px 0; padding:0;">
+                                <li style="list-style:none inside; padding:0 0 0 10px;">&ndash; по-бързо да поръчате стока, използвайки Вашите данни</li>
+                                <li style="list-style:none inside; padding:0 0 0 10px;">&ndash; да проследявате статуса на поръчката си</li>
+                                <li style="list-style:none inside; padding:0 0 0 10px;">&ndash; да прегледате минали поръчки</li>
+                                <li style="list-style:none inside; padding:0 0 0 10px;">&ndash; да променяте информацията в профила си</li>
+                                <li style="list-style:none inside; padding:0 0 0 10px;">&ndash; да променяте паролата си</li>
+                                <li style="list-style:none inside; padding:0 0 0 10px;">&ndash; да запазвате алтернативни адреси (за доставка до различни членове от семейството и приятелите ви!)</li>
+                            </ul>
+                            <p style="font-size:12px; line-height:16px; margin:0;">Ако имате някакви въпроси, можете да се свържете с нас на адрес <a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a> или на телефон {{config path='general/store_information/phone'}}.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#EAEAEA" align="center" style="background:#EAEAEA; text-align:center;"><center><p style="font-size:12px; margin:0;">Благодарим Ви, <strong>{{var store.getFrontendName()}}</strong></p></center></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>

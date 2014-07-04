@@ -1,0 +1,28 @@
+{
+    "name": "CorlleteLab/magento-bulgarian-language-pack",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"",
+    "minimum-stability": "dev",
+    "authors":[
+        {
+            "name":"Desislav Yosifov",
+            "email":"support@corllete.com"
+        }
+    ],
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/magento-hackathon/magento-composer-installer"
+        }
+    ],
+
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+
+    "config": {
+        "preferred-install": "dist"
+    }
+}
