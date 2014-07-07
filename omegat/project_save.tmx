@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;h1 class=""page-heading""&gt;404 Error&lt;/h1&gt;&lt;p&gt;Page not found.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062657Z" creationid="deskin" creationdate="20140707T062657Z">
+        <seg>&lt;h1 class=""page-heading""&gt;Грешка 404&lt;/h1&gt;&lt;p&gt;Страницата не е намерена.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hours</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T062544Z" creationid="deskin" creationdate="20140707T062544Z">
