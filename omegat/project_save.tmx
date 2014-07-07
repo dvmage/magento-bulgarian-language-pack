@@ -4,6 +4,54 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s (Default Template from Locale)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061539Z" creationid="deskin" creationdate="20140707T061539Z">
+        <seg>%s (Шаблон по подразбиране от локализацията)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s cache type(s) disabled.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061546Z" creationid="deskin" creationdate="20140707T061546Z">
+        <seg>кеш тип %s е деактивиран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s cache type(s) enabled.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061641Z" creationid="deskin" creationdate="20140707T061641Z">
+        <seg>кеш тип %s е активиран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The customer does not exist in the system anymore.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061433Z" creationid="deskin" creationdate="20140707T061433Z">
+        <seg> Клиентът вече не съществува в системата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[deleted]</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061442Z" creationid="deskin" creationdate="20140707T061442Z">
+        <seg>  [изтрит]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061448Z" creationid="deskin" creationdate="20140707T061448Z">
+        <seg> и </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
