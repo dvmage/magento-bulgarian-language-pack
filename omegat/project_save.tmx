@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Shift-)Click or drag to change value</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062221Z" creationid="deskin" creationdate="20140707T062221Z">
+        <seg>(Shift-)Клик или издърпване за смяна на стойност</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The customer does not exist in the system anymore.</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T061433Z" creationid="deskin" creationdate="20140707T061433Z">
