@@ -30,6 +30,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s cache type(s) refreshed.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061808Z" creationid="deskin" creationdate="20140707T061808Z">
+        <seg>кеш тип %s е обновен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(For US 2-letter state names)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061842Z" creationid="deskin" creationdate="20140707T061842Z">
+        <seg>(За US 2-буквени имена на щатите)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(If left empty will be auto-generated)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061851Z" creationid="deskin" creationdate="20140707T061851Z">
+        <seg>(Aко полето е оставено празно ще бъде автоматично генерирано)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Leave empty for first spreadsheet)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061859Z" creationid="deskin" creationdate="20140707T061859Z">
+        <seg>(Празно за първа електронна таблица)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T061919Z" creationid="deskin" creationdate="20140707T061919Z">
+        <seg>(Продуктите ще бъдат добавени/обновени към този магазин ако колона 'магазин' е празна или липсва във файла за импорт.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The customer does not exist in the system anymore.</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T061433Z" creationid="deskin" creationdate="20140707T061433Z">
