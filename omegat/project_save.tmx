@@ -78,6 +78,182 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Starting with)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062309Z" creationid="deskin" creationdate="20140707T062309Z">
+        <seg>(Започва с)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(You have to increase php memory_limit before changing this value)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062359Z" creationid="deskin" creationdate="20140707T062359Z">
+        <seg>(Трябва да увеличите PHP memory_limit преди да промените тази стойност)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(\\t for tab)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062402Z" creationid="deskin" creationdate="20140707T062402Z">
+        <seg>(\\t за табулация)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* - If indexing is in progress, it will be killed and new indexing process will start.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062412Z" creationid="deskin" creationdate="20140707T062412Z">
+        <seg>* - Ако се извършва текущо индексиране, то ще бъде прекъснато и ще бъде започнат нов индексиращ процес.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Required Fields</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062415Z" creationid="deskin" creationdate="20140707T062415Z">
+        <seg>* Задължителни полета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Click on any of the time parts to increase it</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062429Z" creationid="deskin" creationdate="20140707T062429Z">
+        <seg>- Клик върху която и да е част от времето за увеличаването и</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Hold mouse button on any of the above buttons for faster selection.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062439Z" creationid="deskin" creationdate="20140707T062439Z">
+        <seg>- Задръжте бутона на мишката върху който и да е от бутоните по-горе за бърз избор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Use the %s buttons to select month</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062444Z" creationid="deskin" creationdate="20140707T062444Z">
+        <seg>- Използвайте бутони %s за избор на месец</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Use the %s, %s buttons to select year</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062445Z" creationid="deskin" creationdate="20140707T062445Z">
+        <seg>- Използвайте бутони %s, %s за избор на година</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- or Shift-click to decrease it</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062449Z" creationid="deskin" creationdate="20140707T062449Z">
+        <seg>- или Shift-клик за намаляването и</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- or click and drag for faster selection.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062457Z" creationid="deskin" creationdate="20140707T062457Z">
+        <seg>- или клик и издърпване за бърз избор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-- Not Selected --</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062501Z" creationid="deskin" creationdate="20140707T062501Z">
+        <seg>-- Не е избрано --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-- Please Select --</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062503Z" creationid="deskin" creationdate="20140707T062503Z">
+        <seg>-- Моля изберете --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-- Please Select Billing Agreement--</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062515Z" creationid="deskin" creationdate="20140707T062515Z">
+        <seg>-- Моля изберете споразумение за плащане --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-- Please Select a Category --</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062518Z" creationid="deskin" creationdate="20140707T062518Z">
+        <seg>-- Моля изберете категория --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-- Please select --</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062522Z" creationid="deskin" creationdate="20140707T062522Z">
+        <seg>-- Моля изберете --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--Please Select--</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062532Z" creationid="deskin" creationdate="20140707T062532Z">
+        <seg>-- Моля изберете --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 Hour</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062536Z" creationid="deskin" creationdate="20140707T062536Z">
+        <seg>1 час</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12h AM/PM</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062550Z" creationid="deskin" creationdate="20140707T062550Z">
+        <seg>12ч AM/PM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Hours</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062552Z" creationid="deskin" creationdate="20140707T062552Z">
+        <seg>2 часа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 Hours</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062602Z" creationid="deskin" creationdate="20140707T062602Z">
+        <seg>6 часа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hours</seg>
+      </tuv>
+      <tuv lang="BG" changeid="deskin" changedate="20140707T062544Z" creationid="deskin" creationdate="20140707T062544Z">
+        <seg>часа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The customer does not exist in the system anymore.</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T061433Z" creationid="deskin" creationdate="20140707T061433Z">
