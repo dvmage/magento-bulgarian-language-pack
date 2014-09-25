@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s Item(s)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064250Z" creationid="deskin" creationdate="20140925T064048Z">
+        <seg>%s обекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s cache type(s) disabled.</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T061546Z" creationid="deskin" creationdate="20140707T061546Z">
