@@ -545,6 +545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File ""%s"" does not exist.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080723Z" creationid="corlletelab" creationdate="20140925T080723Z">
+        <seg>Файл ""%s"" не съществува.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File ""%s"" must be writeable</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074300Z" creationid="corlletelab" creationdate="20140925T074300Z">
@@ -573,6 +581,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074644Z" creationid="corlletelab" creationdate="20140925T074644Z">
         <seg>Форми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found %d rows.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080735Z" creationid="corlletelab" creationdate="20140925T080735Z">
+        <seg>Намерени са %d реда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -657,6 +673,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Less than a minute</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080739Z" creationid="corlletelab" creationdate="20140925T080739Z">
+        <seg>По-малко от минута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loaded successfully: ""%s"".</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080802Z" creationid="corlletelab" creationdate="20140925T080802Z">
+        <seg>Успешно заредени: ""%s"".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072307Z" creationid="corlletelab" creationdate="20140925T072307Z">
@@ -697,6 +729,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memory Used: %s</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080809Z" creationid="corlletelab" creationdate="20140925T080809Z">
+        <seg>Използвана памет: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080109Z" creationid="corlletelab" creationdate="20140925T080109Z">
@@ -709,6 +749,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080112Z" creationid="corlletelab" creationdate="20140925T080112Z">
         <seg>Входящи съобщения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method ""%s"" not defined in adapter %s.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080824Z" creationid="corlletelab" creationdate="20140925T080824Z">
+        <seg>Метод ""%s"" не е дефиниран в адаптер %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method ""%s"" was not defined in adapter %s.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080841Z" creationid="corlletelab" creationdate="20140925T080841Z">
+        <seg>Метод ""%s"" не беше дефиниран в адаптер %s.</seg>
       </tuv>
     </tu>
     <tu>
