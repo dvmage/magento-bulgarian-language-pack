@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href=""%s""&gt;Get Flash&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071821Z" creationid="corlletelab" creationdate="20140925T071821Z">
+        <seg>&lt;a href=""%s""&gt;Изтегли Flash Player&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account Number</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071439Z" creationid="corlletelab" creationdate="20140925T071439Z">
         <seg>Номер на профил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while creating the image.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071738Z" creationid="corlletelab" creationdate="20140925T071738Z">
+        <seg>Грешка при създаване на изображение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -189,6 +205,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070906Z" creationid="corlletelab" creationdate="20140925T070906Z">
         <seg>Благодарим Ви, че се свързахте с нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The image does not exist or is invalid.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071745Z" creationid="corlletelab" creationdate="20140925T071745Z">
+        <seg>Изображението не съществува или е невалидно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This content requires last version of Adobe Flash Player.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071802Z" creationid="corlletelab" creationdate="20140925T071802Z">
+        <seg>Необходима е последна версия на Adobe Flash Player.</seg>
       </tuv>
     </tu>
     <tu>
