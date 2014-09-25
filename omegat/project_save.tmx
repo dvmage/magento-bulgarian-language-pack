@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href=""%s"" target=""_blank""&gt;Link&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080353Z" creationid="corlletelab" creationdate="20140925T080353Z">
+        <seg>&lt;a href=""%s"" target=""_blank""&gt;Линк&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href=""%s""&gt;Get Flash&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071821Z" creationid="corlletelab" creationdate="20140925T071821Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080025Z" creationid="corlletelab" creationdate="20140925T080025Z">
         <seg>Възникна грешка при маркиране на съобщенията като прочетени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while opening file: ""%s"".</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080430Z" creationid="corlletelab" creationdate="20140925T080430Z">
+        <seg>Грешка при отваряне на файл: ""%s"".</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,6 +329,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not load file: ""%s"".</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080443Z" creationid="corlletelab" creationdate="20140925T080443Z">
+        <seg>Невъзможно е зареждане на файл: ""%s"".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not save file: %s.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080450Z" creationid="corlletelab" creationdate="20140925T080450Z">
+        <seg>Невъзможно е записване на файл: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer Groups must be specified.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075721Z" creationid="corlletelab" creationdate="20140925T075721Z">
@@ -333,6 +365,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080059Z" creationid="corlletelab" creationdate="20140925T080059Z">
         <seg>Дата на добавяне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declared adapter %s was not found.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080502Z" creationid="corlletelab" creationdate="20140925T080502Z">
+        <seg>Декларирания адаптер %s не беше намерен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -373,6 +413,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074201Z" creationid="corlletelab" creationdate="20140925T074201Z">
         <seg>Изключен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080521Z" creationid="corlletelab" creationdate="20140925T080521Z">
+        <seg>Готово</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,6 +1193,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update Frequency</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080252Z" creationid="corlletelab" creationdate="20140925T080252Z">
+        <seg>Честота на обновяване</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use HTTPS to Get Feed</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080301Z" creationid="corlletelab" creationdate="20140925T080301Z">
+        <seg>Използвай HTTPS за получаване на Feed данни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Name</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073957Z" creationid="corlletelab" creationdate="20140925T073957Z">
@@ -1169,6 +1233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong message type</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080323Z" creationid="corlletelab" creationdate="20140925T080323Z">
+        <seg>Грешен тип на съобщение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your account has been deactivated.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074016Z" creationid="corlletelab" creationdate="20140925T074016Z">
@@ -1189,6 +1261,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075857Z" creationid="corlletelab" creationdate="20140925T075857Z">
         <seg>съдържа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>critical</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080327Z" creationid="corlletelab" creationdate="20140925T080327Z">
+        <seg>критично</seg>
       </tuv>
     </tu>
     <tu>
@@ -1261,6 +1341,30 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075945Z" creationid="corlletelab" creationdate="20140925T075945Z">
         <seg>по-малко от</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>major</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080329Z" creationid="corlletelab" creationdate="20140925T080329Z">
+        <seg>важно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>minor</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080330Z" creationid="corlletelab" creationdate="20140925T080330Z">
+        <seg>маловажно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>notice</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080332Z" creationid="corlletelab" creationdate="20140925T080332Z">
+        <seg>известие</seg>
       </tuv>
     </tu>
     <tu>
