@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Required Fields</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065901Z" creationid="corlletelab" creationdate="20140925T065901Z">
+        <seg>* Задължителни полета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a href=""%s""&gt;Get Flash&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071821Z" creationid="corlletelab" creationdate="20140925T071821Z">
+        <seg>&lt;a href=""%s""&gt;Изтегли Flash Player&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Account Number</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071439Z" creationid="corlletelab" creationdate="20140925T071439Z">
+        <seg>Номер на профил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while creating the image.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071738Z" creationid="corlletelab" creationdate="20140925T071738Z">
+        <seg>Грешка при създаване на изображение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065903Z" creationid="corlletelab" creationdate="20140925T065903Z">
+        <seg>Коментар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact Form</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065909Z" creationid="corlletelab" creationdate="20140925T065909Z">
+        <seg>Форма за контакт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Може да бъде променено
+</note>
+      <tuv lang="EN-US">
+        <seg>Contact Information</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065939Z" creationid="corlletelab" creationdate="20140925T065939Z">
+        <seg>Информация за контакт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Свържете се с нас</note>
+      <tuv lang="EN-US">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070037Z" creationid="corlletelab" creationdate="20140925T070037Z">
+        <seg>Контакт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact Us Form</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070458Z" creationid="corlletelab" creationdate="20140925T070458Z">
+        <seg>Форма за контакт с нас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070501Z" creationid="corlletelab" creationdate="20140925T070501Z">
+        <seg>Контакти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contacts Section</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070511Z" creationid="corlletelab" creationdate="20140925T070511Z">
+        <seg>Секция контакти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070512Z" creationid="corlletelab" creationdate="20140925T070512Z">
+        <seg>Имейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Options</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070522Z" creationid="corlletelab" creationdate="20140925T070522Z">
+        <seg>Имейл опции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Sender</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070527Z" creationid="corlletelab" creationdate="20140925T070527Z">
+        <seg>Имейл подател</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Template</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070529Z" creationid="corlletelab" creationdate="20140925T070529Z">
+        <seg>Имейл шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071444Z" creationid="corlletelab" creationdate="20140925T071444Z">
+        <seg>Включи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Contact Us</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070546Z" creationid="corlletelab" creationdate="20140925T070546Z">
+        <seg>Активирай Контакт с нас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Email Recipient</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072134Z" creationid="corlletelab" creationdate="20140925T072134Z">
+        <seg>Имейл получател за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Email Sender</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072138Z" creationid="corlletelab" creationdate="20140925T072138Z">
+        <seg>Имейл подател за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Email Template</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072142Z" creationid="corlletelab" creationdate="20140925T072142Z">
+        <seg>Имейл шаблон за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frequency</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072145Z" creationid="corlletelab" creationdate="20140925T072145Z">
+        <seg>Честота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google API</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071448Z" creationid="corlletelab" creationdate="20140925T071448Z">
+        <seg>Гугъл API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Analytics</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071523Z" creationid="corlletelab" creationdate="20140925T071523Z">
+        <seg>Гугъл статистика (Google Analytics)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If empty, default value will be used.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072756Z" creationid="corlletelab" creationdate="20140925T072756Z">
+        <seg>Аако е празно, ще се използват стойности по подразбиране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Currency</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072307Z" creationid="corlletelab" creationdate="20140925T072307Z">
+        <seg>Управление на валута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Currency Rates</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072327Z" creationid="corlletelab" creationdate="20140925T072327Z">
+        <seg>Управление на валутни курсове</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070547Z" creationid="corlletelab" creationdate="20140925T070547Z">
+        <seg>Име</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, try again later</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070823Z" creationid="corlletelab" creationdate="20140925T070823Z">
+        <seg>Моля, опитайте отново по-късно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rates</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072341Z" creationid="corlletelab" creationdate="20140925T072341Z">
+        <seg>Валутни курсове</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send Emails To</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
+        <seg>Изпращане на имейли до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Time</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072226Z" creationid="corlletelab" creationdate="20140925T072226Z">
+        <seg>Начало</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070609Z" creationid="corlletelab" creationdate="20140925T070609Z">
+        <seg>Добави</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbols</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072503Z" creationid="corlletelab" creationdate="20140925T072503Z">
+        <seg>Символи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070611Z" creationid="corlletelab" creationdate="20140925T070611Z">
+        <seg>Телефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you for contacting us.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070906Z" creationid="corlletelab" creationdate="20140925T070906Z">
+        <seg>Благодарим Ви, че се свързахте с нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The image does not exist or is invalid.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071745Z" creationid="corlletelab" creationdate="20140925T071745Z">
+        <seg>Изображението не съществува или е невалидно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This content requires last version of Adobe Flash Player.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071802Z" creationid="corlletelab" creationdate="20140925T071802Z">
+        <seg>Необходима е последна версия на Adobe Flash Player.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to submit your request.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070910Z" creationid="corlletelab" creationdate="20140925T070750Z">
+        <seg>В момента е невъзможно изпращането на Вашето запитване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your inquiry was submitted and will be responded to as soon as possible.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070850Z" creationid="corlletelab" creationdate="20140925T070850Z">
+        <seg>Вашето запитване е изпратено успешно. Отговор ще ви бъде изпратен възможно най-скоро.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
