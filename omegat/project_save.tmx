@@ -1321,6 +1321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The card has failed verification with the issuer bank.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082500Z" creationid="corlletelab" creationdate="20140925T082500Z">
+        <seg>Картата не беше потвърдена от банката-издател.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The compilation has completed.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074414Z" creationid="corlletelab" creationdate="20140925T074414Z">
@@ -1377,10 +1385,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There has been wrong payment information submitted or the time limit has expired.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082523Z" creationid="corlletelab" creationdate="20140925T082523Z">
+        <seg>Изпратена е грешна информация за плащане или е надхвърлен лимита на време за изпълнение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There has been wrong payment information submitted or time limit has expired.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082602Z" creationid="corlletelab" creationdate="20140925T082602Z">
+        <seg>Изпратена е грешна информация за плащане или е надхвърлен лимита на време за изпълнение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This card has failed validation and cannot be used.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082619Z" creationid="corlletelab" creationdate="20140925T082619Z">
+        <seg>Тази карта не премина успешно валидация и не може да се използва..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This content requires last version of Adobe Flash Player.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071802Z" creationid="corlletelab" creationdate="20140925T071802Z">
         <seg>Необходима е последна версия на Adobe Flash Player.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure the security of your transactions</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082628Z" creationid="corlletelab" creationdate="20140925T082628Z">
+        <seg>За подсигуряване защитата на вашите транзакции</seg>
       </tuv>
     </tu>
     <tu>
@@ -1425,6 +1465,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to complete</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082637Z" creationid="corlletelab" creationdate="20140925T082637Z">
+        <seg>Завършването невъзможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to login.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073946Z" creationid="corlletelab" creationdate="20140925T073946Z">
@@ -1461,6 +1509,46 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073957Z" creationid="corlletelab" creationdate="20140925T073957Z">
         <seg>Потребител</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validation failed.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082641Z" creationid="corlletelab" creationdate="20140925T082641Z">
+        <seg>Валидацията неуспешна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification Failed</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082645Z" creationid="corlletelab" creationdate="20140925T082645Z">
+        <seg>Потвърждението неуспешно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification Successful</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082648Z" creationid="corlletelab" creationdate="20140925T082648Z">
+        <seg>Потвърждението успешно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification cannot be processed</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082650Z" creationid="corlletelab" creationdate="20140925T082650Z">
+        <seg>Потвърждението не може да бъде извършено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verified by Visa</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082653Z" creationid="corlletelab" creationdate="20140925T082653Z">
+        <seg>Потвърдено от Visa</seg>
       </tuv>
     </tu>
     <tu>
