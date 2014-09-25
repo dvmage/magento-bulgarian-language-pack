@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Copy data from: %s)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064342Z" creationid="corlletelab" creationdate="20140925T064342Z">
+        <seg>(Копиране на данни от: %s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For US 2-letter state names)</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T061842Z" creationid="deskin" creationdate="20140707T061842Z">
@@ -262,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>86400 by default, if not set.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064415Z" creationid="corlletelab" creationdate="20140925T064415Z">
+        <seg>86400 по подразбиране, ако не е посочено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;h1 class=""page-heading""&gt;404 Error&lt;/h1&gt;&lt;p&gt;Page not found.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="BG" changeid="deskin" changedate="20140707T062657Z" creationid="deskin" creationdate="20140707T062657Z">
         <seg>&lt;h1 class=""page-heading""&gt;Грешка 404&lt;/h1&gt;&lt;p&gt;Страницата не е намерена.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;strong style=""color:red""&gt;Warning!&lt;/strong&gt; Applying MAP by default will hide all product prices on the frontend.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064556Z" creationid="corlletelab" creationdate="20140925T064556Z">
+        <seg>&lt;strong style=""color:red""&gt;Внимание!&lt;/strong&gt;Прилагането на MAP по подразбиране ще скрие цените на всички продукти на страницата.</seg>
       </tuv>
     </tu>
     <tu>
