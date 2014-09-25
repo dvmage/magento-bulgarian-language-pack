@@ -163,8 +163,24 @@
       <tuv lang="EN-US">
         <seg>Directory ""%s"" must be writeable</seg>
       </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074109Z" creationid="corlletelab" creationdate="20140925T074109Z">
-        <seg>Директория "%s" трябва да бъде с права за писане</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074309Z" creationid="corlletelab" creationdate="20140925T074109Z">
+        <seg>Директория ""%s"" трябва да бъде с права за писане</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074227Z" creationid="corlletelab" creationdate="20140925T074149Z">
+        <seg>Изключи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074201Z" creationid="corlletelab" creationdate="20140925T074201Z">
+        <seg>Изключен</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,6 +241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074245Z" creationid="corlletelab" creationdate="20140925T074245Z">
+        <seg>Включен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error Email Recipient</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072134Z" creationid="corlletelab" creationdate="20140925T072134Z">
@@ -253,6 +277,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073603Z" creationid="corlletelab" creationdate="20140925T073603Z">
         <seg>Пълна хронология (Lifetime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File ""%s"" must be writeable</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074300Z" creationid="corlletelab" creationdate="20140925T074300Z">
+        <seg>Файл ""%s"" трябва да е с права за писане</seg>
       </tuv>
     </tu>
     <tu>
@@ -337,6 +369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Compiled</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074316Z" creationid="corlletelab" creationdate="20140925T074316Z">
+        <seg>Не е компилирано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please, try again later</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070823Z" creationid="corlletelab" creationdate="20140925T070823Z">
@@ -353,6 +393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run Compilation Process</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074321Z" creationid="corlletelab" creationdate="20140925T074321Z">
+        <seg>Стартирай процес на компилиране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SOAP/XML-RPC - Roles</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073923Z" creationid="corlletelab" creationdate="20140925T073923Z">
@@ -365,6 +413,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073936Z" creationid="corlletelab" creationdate="20140925T073936Z">
         <seg>SOAP/XML-RPC - Потребители</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scopes Compilation Settings</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074401Z" creationid="corlletelab" creationdate="20140925T074401Z">
+        <seg>Настройки на компилационни обхвати</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,6 +457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074406Z" creationid="corlletelab" creationdate="20140925T074406Z">
+        <seg>Система</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telephone</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070611Z" creationid="corlletelab" creationdate="20140925T070611Z">
@@ -417,6 +481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The compilation has completed.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074414Z" creationid="corlletelab" creationdate="20140925T074414Z">
+        <seg>Компилацията беше завършена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The image does not exist or is invalid.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071745Z" creationid="corlletelab" creationdate="20140925T071745Z">
@@ -429,6 +501,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071802Z" creationid="corlletelab" creationdate="20140925T071802Z">
         <seg>Необходима е последна версия на Adobe Flash Player.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074418Z" creationid="corlletelab" creationdate="20140925T074418Z">
+        <seg>Инструменти</seg>
       </tuv>
     </tu>
     <tu>
