@@ -857,6 +857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please declare ""adapter"" and ""method"" nodes first.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080910Z" creationid="corlletelab" creationdate="20140925T080910Z">
+        <seg>Моля декларирайте първо ""adapter"" и ""method"" елементи."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select messages.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080117Z" creationid="corlletelab" creationdate="20140925T080117Z">
@@ -917,6 +925,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080228Z" creationid="corlletelab" creationdate="20140925T080228Z">
         <seg>Моля, опитайте отново.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processed records: %s</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080917Z" creationid="corlletelab" creationdate="20140925T080917Z">
+        <seg>Обработени записа: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081047Z" creationid="corlletelab" creationdate="20140925T081047Z">
+        <seg>Вече съществува профил със същото име.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1049,6 +1073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saved successfully: ""%s"" [%d byte(s)].</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081101Z" creationid="corlletelab" creationdate="20140925T081101Z">
+        <seg>Успешно записани: ""%s"" [%d байт(а)].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scopes Compilation Settings</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074401Z" creationid="corlletelab" creationdate="20140925T074401Z">
@@ -1073,6 +1105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sheet 1</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081105Z" creationid="corlletelab" creationdate="20140925T081105Z">
+        <seg>Страница 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show List</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080130Z" creationid="corlletelab" creationdate="20140925T080130Z">
@@ -1089,6 +1129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skip undefined row.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081115Z" creationid="corlletelab" creationdate="20140925T081115Z">
+        <seg>Пропусни недифиниран ред.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort Order</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075608Z" creationid="corlletelab" creationdate="20140925T075608Z">
@@ -1101,6 +1149,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072226Z" creationid="corlletelab" creationdate="20140925T072226Z">
         <seg>Начало</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting %s :: %s</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081125Z" creationid="corlletelab" creationdate="20140925T081125Z">
+        <seg>Стартиране %s :: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1169,6 +1225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The destination folder ""%s"" does not exist or there is no access to create it.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081146Z" creationid="corlletelab" creationdate="20140925T081146Z">
+        <seg>Целевата папка ""%s"" не съещствува или няма права за нейното създаването.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The image does not exist or is invalid.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071745Z" creationid="corlletelab" creationdate="20140925T071745Z">
@@ -1229,6 +1293,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080205Z" creationid="corlletelab" creationdate="20140925T080205Z">
         <seg>Общо %d запис(а) бяха изтрити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total records: %s</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081153Z" creationid="corlletelab" creationdate="20140925T081153Z">
+        <seg>Общо записи: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,6 +1433,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hour</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081154Z" creationid="corlletelab" creationdate="20140925T081154Z">
+        <seg>час</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hours</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081156Z" creationid="corlletelab" creationdate="20140925T081156Z">
+        <seg>часа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075933Z" creationid="corlletelab" creationdate="20140925T075933Z">
@@ -1413,6 +1501,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080330Z" creationid="corlletelab" creationdate="20140925T080330Z">
         <seg>маловажно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>minute</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081158Z" creationid="corlletelab" creationdate="20140925T081158Z">
+        <seg>минута</seg>
       </tuv>
     </tu>
     <tu>
