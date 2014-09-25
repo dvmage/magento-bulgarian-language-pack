@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conditions Combination</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075645Z" creationid="corlletelab" creationdate="20140925T075645Z">
+        <seg>Комбинация от условия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact Form</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T065909Z" creationid="corlletelab" creationdate="20140925T065909Z">
@@ -253,6 +261,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070511Z" creationid="corlletelab" creationdate="20140925T070511Z">
         <seg>Секция контакти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Groups must be specified.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075721Z" creationid="corlletelab" creationdate="20140925T075721Z">
+        <seg>Трябва да бъде посочена клиентска гупа/групи</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,6 +393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End Date must be greater than Start Date.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075729Z" creationid="corlletelab" creationdate="20140925T075729Z">
+        <seg>Крайната дата трябва да е по-късно от началната дата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error Email Recipient</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072134Z" creationid="corlletelab" creationdate="20140925T072134Z">
@@ -397,6 +421,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072142Z" creationid="corlletelab" creationdate="20140925T072142Z">
         <seg>Имейл шаблон за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FALSE</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075732Z" creationid="corlletelab" creationdate="20140925T075732Z">
+        <seg>НЕВЯРНО</seg>
       </tuv>
     </tu>
     <tu>
@@ -473,6 +505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If %s of these conditions are %s:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075740Z" creationid="corlletelab" creationdate="20140925T075740Z">
+        <seg>Ако %s от тези условия са %s:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If empty, default value will be used.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072756Z" creationid="corlletelab" creationdate="20140925T072756Z">
@@ -493,6 +533,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074700Z" creationid="corlletelab" creationdate="20140925T074700Z">
         <seg>Невалиден код от картинката.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid discount amount.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075743Z" creationid="corlletelab" creationdate="20140925T075743Z">
+        <seg>Грешна стойност за отстъпка</seg>
       </tuv>
     </tu>
     <tu>
@@ -573,6 +621,30 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074729Z" creationid="corlletelab" creationdate="20140925T074729Z">
         <seg>Брой неуспешни опити за вход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform following actions</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075758Z" creationid="corlletelab" creationdate="20140925T075758Z">
+        <seg>Извърши следните действия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose a condition to add...</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075809Z" creationid="corlletelab" creationdate="20140925T075809Z">
+        <seg>Моля изберете условие за добавяне...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose an action to add...</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075816Z" creationid="corlletelab" creationdate="20140925T075816Z">
+        <seg>Моля изберете действие за добавяне...</seg>
       </tuv>
     </tu>
     <tu>
@@ -705,6 +777,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075818Z" creationid="corlletelab" creationdate="20140925T075818Z">
+        <seg>Премахни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run Compilation Process</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074321Z" creationid="corlletelab" creationdate="20140925T074321Z">
@@ -789,6 +869,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074406Z" creationid="corlletelab" creationdate="20140925T074406Z">
         <seg>Система</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRUE</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075820Z" creationid="corlletelab" creationdate="20140925T075820Z">
+        <seg>ВЯРНО</seg>
       </tuv>
     </tu>
     <tu>
@@ -909,6 +997,86 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070850Z" creationid="corlletelab" creationdate="20140925T070850Z">
         <seg>Вашето запитване е изпратено успешно. Отговор ще ви бъде изпратен възможно най-скоро.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075857Z" creationid="corlletelab" creationdate="20140925T075857Z">
+        <seg>съдържа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>does not contain</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075903Z" creationid="corlletelab" creationdate="20140925T075903Z">
+        <seg>не съдържа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>equals or greater than</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075922Z" creationid="corlletelab" creationdate="20140925T075907Z">
+        <seg>равно или по-голямо от</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>equals or less than</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075924Z" creationid="corlletelab" creationdate="20140925T075909Z">
+        <seg>равно или по-малко от</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>greater than</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075918Z" creationid="corlletelab" creationdate="20140925T075918Z">
+        <seg>по-голямо от</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075933Z" creationid="corlletelab" creationdate="20140925T075933Z">
+        <seg>е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is not</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075936Z" creationid="corlletelab" creationdate="20140925T075936Z">
+        <seg>не е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is not one of</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075939Z" creationid="corlletelab" creationdate="20140925T075939Z">
+        <seg>не е едно от</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is one of</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075941Z" creationid="corlletelab" creationdate="20140925T075941Z">
+        <seg>е едно от</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>less than</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075945Z" creationid="corlletelab" creationdate="20140925T075945Z">
+        <seg>по-малко от</seg>
       </tuv>
     </tu>
     <tu>
