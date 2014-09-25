@@ -193,6 +193,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Currency</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072307Z" creationid="corlletelab" creationdate="20140925T072307Z">
+        <seg>Управление на валута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Currency Rates</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072327Z" creationid="corlletelab" creationdate="20140925T072327Z">
+        <seg>Управление на валутни курсове</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070547Z" creationid="corlletelab" creationdate="20140925T070547Z">
@@ -205,6 +221,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070823Z" creationid="corlletelab" creationdate="20140925T070823Z">
         <seg>Моля, опитайте отново по-късно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rates</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072341Z" creationid="corlletelab" creationdate="20140925T072341Z">
+        <seg>Валутни курсове</seg>
       </tuv>
     </tu>
     <tu>
@@ -229,6 +253,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070609Z" creationid="corlletelab" creationdate="20140925T070609Z">
         <seg>Добави</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbols</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072503Z" creationid="corlletelab" creationdate="20140925T072503Z">
+        <seg>Символи</seg>
       </tuv>
     </tu>
     <tu>
@@ -269,6 +301,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070910Z" creationid="corlletelab" creationdate="20140925T070750Z">
         <seg>В момента е невъзможно изпращането на Вашето запитване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Default</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072519Z" creationid="corlletelab" creationdate="20140925T072519Z">
+        <seg>Използвай по подразбиране</seg>
       </tuv>
     </tu>
     <tu>
