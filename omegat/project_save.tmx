@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080016Z" creationid="corlletelab" creationdate="20140925T080016Z">
+        <seg>Действия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075637Z" creationid="corlletelab" creationdate="20140925T075637Z">
@@ -126,10 +134,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while marking notification as read.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080020Z" creationid="corlletelab" creationdate="20140925T080020Z">
+        <seg>Възникна грешка при маркиране на известието като прочетено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while marking the messages as read.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080025Z" creationid="corlletelab" creationdate="20140925T080025Z">
+        <seg>Възникна грешка при маркиране на съобщенията като прочетени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while removing messages.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080030Z" creationid="corlletelab" creationdate="20140925T080030Z">
+        <seg>Възникна грешка при изтриване на съобщенията.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while removing the message.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080035Z" creationid="corlletelab" creationdate="20140925T080035Z">
+        <seg>Възникна грешка при изтриване на съобщението.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075640Z" creationid="corlletelab" creationdate="20140925T075640Z">
         <seg>Приложи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080054Z" creationid="corlletelab" creationdate="20140925T080054Z">
+        <seg>Сигурни ли сте?</seg>
       </tuv>
     </tu>
     <tu>
@@ -277,6 +325,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073511Z" creationid="corlletelab" creationdate="20140925T073511Z">
         <seg>Дневно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date Added</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080059Z" creationid="corlletelab" creationdate="20140925T080059Z">
+        <seg>Дата на добавяне</seg>
       </tuv>
     </tu>
     <tu>
@@ -545,6 +601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last Update</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080101Z" creationid="corlletelab" creationdate="20140925T080101Z">
+        <seg>Последно обновяване</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072307Z" creationid="corlletelab" creationdate="20140925T072307Z">
@@ -565,6 +629,38 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075414Z" creationid="corlletelab" creationdate="20140925T075414Z">
         <seg>Управление на рейтинги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark as Read</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080103Z" creationid="corlletelab" creationdate="20140925T080103Z">
+        <seg>Маркирай като прочетено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark as read</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080108Z" creationid="corlletelab" creationdate="20140925T080108Z">
+        <seg>Маркирай като прочетено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080109Z" creationid="corlletelab" creationdate="20140925T080109Z">
+        <seg>Съобщение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Messages Inbox</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080112Z" creationid="corlletelab" creationdate="20140925T080112Z">
+        <seg>Входящи съобщения</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,6 +705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080114Z" creationid="corlletelab" creationdate="20140925T080114Z">
+        <seg>Известия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of Symbols</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074710Z" creationid="corlletelab" creationdate="20140925T074710Z">
@@ -645,6 +749,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075816Z" creationid="corlletelab" creationdate="20140925T075816Z">
         <seg>Моля изберете действие за добавяне...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select messages.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080117Z" creationid="corlletelab" creationdate="20140925T080117Z">
+        <seg>Моля, изберете съобщения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -693,6 +805,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070823Z" creationid="corlletelab" creationdate="20140925T070823Z">
         <seg>Моля, опитайте отново по-късно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, try again.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080228Z" creationid="corlletelab" creationdate="20140925T080228Z">
+        <seg>Моля, опитайте отново.</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,6 +889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read Details</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080122Z" creationid="corlletelab" creationdate="20140925T080122Z">
+        <seg>Прочети още</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reload captcha</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075141Z" creationid="corlletelab" creationdate="20140925T075141Z">
@@ -829,6 +957,30 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
         <seg>Изпращане на имейли до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Severity</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080129Z" creationid="corlletelab" creationdate="20140925T080129Z">
+        <seg>Важност</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show List</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080130Z" creationid="corlletelab" creationdate="20140925T080130Z">
+        <seg>Покажи списък</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Toolbar</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080134Z" creationid="corlletelab" creationdate="20140925T080134Z">
+        <seg>Покажи лента с инструменти</seg>
       </tuv>
     </tu>
     <tu>
@@ -921,6 +1073,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The message has been marked as read.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080137Z" creationid="corlletelab" creationdate="20140925T080137Z">
+        <seg>Събщението беше маркирано като прочетено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The message has been removed.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080142Z" creationid="corlletelab" creationdate="20140925T080142Z">
+        <seg>Съобщението беше изтрито.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This content requires last version of Adobe Flash Player.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071802Z" creationid="corlletelab" creationdate="20140925T071802Z">
@@ -941,6 +1109,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074439Z" creationid="corlletelab" creationdate="20140925T074439Z">
         <seg>Общо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total of %d record(s) have been marked as read.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080153Z" creationid="corlletelab" creationdate="20140925T080153Z">
+        <seg>Общо %d запис(а) бяха маркирани като прочетени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total of %d record(s) have been removed.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T080205Z" creationid="corlletelab" creationdate="20140925T080205Z">
+        <seg>Общо %d запис(а) бяха изтрити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1085,6 +1269,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074527Z" creationid="corlletelab" creationdate="20140925T074527Z">
         <seg>данък</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075959Z" creationid="corlletelab" creationdate="20140925T075959Z">
+        <seg>до</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
