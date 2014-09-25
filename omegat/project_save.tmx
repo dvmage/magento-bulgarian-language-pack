@@ -6,322 +6,45 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
-        <seg>%1$s incl tax.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140925T063923Z" creationid="deskin" creationdate="20140925T063825Z">
-        <seg>%1$s вкл. данък</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>%s (Default Template from Locale)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061539Z" creationid="deskin" creationdate="20140707T061539Z">
-        <seg>%s (Шаблон по подразбиране от локализацията)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>%s Item(s)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064250Z" creationid="deskin" creationdate="20140925T064048Z">
-        <seg>%s обекта</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>%s cache type(s) disabled.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061546Z" creationid="deskin" creationdate="20140707T061546Z">
-        <seg>кеш тип %s е деактивиран.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>%s cache type(s) enabled.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061641Z" creationid="deskin" creationdate="20140707T061641Z">
-        <seg>кеш тип %s е активиран.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>%s cache type(s) refreshed.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061808Z" creationid="deskin" creationdate="20140707T061808Z">
-        <seg>кеш тип %s е обновен.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Copy data from: %s)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064342Z" creationid="corlletelab" creationdate="20140925T064342Z">
-        <seg>(Копиране на данни от: %s)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(For US 2-letter state names)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061842Z" creationid="deskin" creationdate="20140707T061842Z">
-        <seg>(За US 2-буквени имена на щатите)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(If left empty will be auto-generated)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061851Z" creationid="deskin" creationdate="20140707T061851Z">
-        <seg>(Aко полето е оставено празно ще бъде автоматично генерирано)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Leave empty for first spreadsheet)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061859Z" creationid="deskin" creationdate="20140707T061859Z">
-        <seg>(Празно за първа електронна таблица)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061919Z" creationid="deskin" creationdate="20140707T061919Z">
-        <seg>(Продуктите ще бъдат добавени/обновени към този магазин ако колона 'магазин' е празна или липсва във файла за импорт.)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Shift-)Click or drag to change value</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062221Z" creationid="deskin" creationdate="20140707T062221Z">
-        <seg>(Shift-)Клик или издърпване за смяна на стойност</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Starting with)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062309Z" creationid="deskin" creationdate="20140707T062309Z">
-        <seg>(Започва с)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(You have to increase php memory_limit before changing this value)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062359Z" creationid="deskin" creationdate="20140707T062359Z">
-        <seg>(Трябва да увеличите PHP memory_limit преди да промените тази стойност)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(\\t for tab)</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062402Z" creationid="deskin" creationdate="20140707T062402Z">
-        <seg>(\\t за табулация)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>* - If indexing is in progress, it will be killed and new indexing process will start.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062412Z" creationid="deskin" creationdate="20140707T062412Z">
-        <seg>* - Ако се извършва текущо индексиране, то ще бъде прекъснато и ще бъде започнат нов индексиращ процес.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>* Required Fields</seg>
       </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062415Z" creationid="deskin" creationdate="20140707T062415Z">
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065901Z" creationid="corlletelab" creationdate="20140925T065901Z">
         <seg>* Задължителни полета</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>- Click on any of the time parts to increase it</seg>
+        <seg>Comment</seg>
       </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062429Z" creationid="deskin" creationdate="20140707T062429Z">
-        <seg>- Клик върху която и да е част от времето за увеличаването и</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>- Hold mouse button on any of the above buttons for faster selection.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062439Z" creationid="deskin" creationdate="20140707T062439Z">
-        <seg>- Задръжте бутона на мишката върху който и да е от бутоните по-горе за бърз избор.</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065903Z" creationid="corlletelab" creationdate="20140925T065903Z">
+        <seg>Коментар</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>- Use the %s buttons to select month</seg>
+        <seg>Contact Form</seg>
       </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062444Z" creationid="deskin" creationdate="20140707T062444Z">
-        <seg>- Използвайте бутони %s за избор на месец</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>- Use the %s, %s buttons to select year</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062445Z" creationid="deskin" creationdate="20140707T062445Z">
-        <seg>- Използвайте бутони %s, %s за избор на година</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065909Z" creationid="corlletelab" creationdate="20140925T065909Z">
+        <seg>Форма за контакт</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Може да бъде променено
+</note>
       <tuv lang="EN-US">
-        <seg>- or Shift-click to decrease it</seg>
+        <seg>Contact Information</seg>
       </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062449Z" creationid="deskin" creationdate="20140707T062449Z">
-        <seg>- или Shift-клик за намаляването и</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T065939Z" creationid="corlletelab" creationdate="20140925T065939Z">
+        <seg>Информация за контакт</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Свържете се с нас</note>
       <tuv lang="EN-US">
-        <seg>- or click and drag for faster selection.</seg>
+        <seg>Contact Us</seg>
       </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062457Z" creationid="deskin" creationdate="20140707T062457Z">
-        <seg>- или клик и издърпване за бърз избор.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>-- Not Selected --</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062501Z" creationid="deskin" creationdate="20140707T062501Z">
-        <seg>-- Не е избрано --</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>-- Please Select --</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062503Z" creationid="deskin" creationdate="20140707T062503Z">
-        <seg>-- Моля изберете --</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>-- Please Select Billing Agreement--</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062515Z" creationid="deskin" creationdate="20140707T062515Z">
-        <seg>-- Моля изберете споразумение за плащане --</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>-- Please Select a Category --</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062518Z" creationid="deskin" creationdate="20140707T062518Z">
-        <seg>-- Моля изберете категория --</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>-- Please select --</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062522Z" creationid="deskin" creationdate="20140707T062522Z">
-        <seg>-- Моля изберете --</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>--Please Select--</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062532Z" creationid="deskin" creationdate="20140707T062532Z">
-        <seg>-- Моля изберете --</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>1 Hour</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062536Z" creationid="deskin" creationdate="20140707T062536Z">
-        <seg>1 час</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>12h AM/PM</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062550Z" creationid="deskin" creationdate="20140707T062550Z">
-        <seg>12ч AM/PM</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>2 Hours</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062552Z" creationid="deskin" creationdate="20140707T062552Z">
-        <seg>2 часа</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>6 Hours</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062602Z" creationid="deskin" creationdate="20140707T062602Z">
-        <seg>6 часа</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>86400 by default, if not set.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064415Z" creationid="corlletelab" creationdate="20140925T064415Z">
-        <seg>86400 по подразбиране, ако не е посочено.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;h1 class=""page-heading""&gt;404 Error&lt;/h1&gt;&lt;p&gt;Page not found.&lt;/p&gt;</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062657Z" creationid="deskin" creationdate="20140707T062657Z">
-        <seg>&lt;h1 class=""page-heading""&gt;Грешка 404&lt;/h1&gt;&lt;p&gt;Страницата не е намерена.&lt;/p&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;strong style=""color:red""&gt;Warning!&lt;/strong&gt; Applying MAP by default will hide all product prices on the frontend.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T064556Z" creationid="corlletelab" creationdate="20140925T064556Z">
-        <seg>&lt;strong style=""color:red""&gt;Внимание!&lt;/strong&gt;Прилагането на MAP по подразбиране ще скрие цените на всички продукти на страницата.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Hours</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T062544Z" creationid="deskin" creationdate="20140707T062544Z">
-        <seg>часа</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The customer does not exist in the system anymore.</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061433Z" creationid="deskin" creationdate="20140707T061433Z">
-        <seg> Клиентът вече не съществува в системата.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>[deleted]</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061442Z" creationid="deskin" creationdate="20140707T061442Z">
-        <seg>  [изтрит]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>and</seg>
-      </tuv>
-      <tuv lang="BG" changeid="deskin" changedate="20140707T061448Z" creationid="deskin" creationdate="20140707T061448Z">
-        <seg> и </seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070037Z" creationid="corlletelab" creationdate="20140925T070037Z">
+        <seg>Контакт</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
