@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074552Z" creationid="corlletelab" creationdate="20140925T074552Z">
+        <seg>Винаги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while creating the image.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071738Z" creationid="corlletelab" creationdate="20140925T071738Z">
@@ -289,10 +297,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074638Z" creationid="corlletelab" creationdate="20140925T074638Z">
+        <seg>Шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For correct URLs generated during cron runs please make sure that Web &gt; Secure and Unsecure Base URLs are explicitly set.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073643Z" creationid="corlletelab" creationdate="20140925T073643Z">
         <seg>За коректно генериране на уеб адреси по време на изпълнението на задачите, се убедете, че Уеб &gt; Подсигурено и Неподсигурено базово URL за изрично зададени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forms</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074644Z" creationid="corlletelab" creationdate="20140925T074644Z">
+        <seg>Форми</seg>
       </tuv>
     </tu>
     <tu>
@@ -337,6 +361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect CAPTCHA.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074700Z" creationid="corlletelab" creationdate="20140925T074700Z">
+        <seg>Невалиден код от картинката.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072307Z" creationid="corlletelab" creationdate="20140925T072307Z">
@@ -373,6 +405,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074316Z" creationid="corlletelab" creationdate="20140925T074316Z">
         <seg>Не е компилирано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Symbols</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074710Z" creationid="corlletelab" creationdate="20140925T074710Z">
+        <seg>Брой символи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Unsuccessful Attempts to Login</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074729Z" creationid="corlletelab" creationdate="20140925T074729Z">
+        <seg>Брой неуспешни опити за вход</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,6 +513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tax</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074504Z" creationid="corlletelab" creationdate="20140925T074504Z">
+        <seg>Данък</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telephone</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070611Z" creationid="corlletelab" creationdate="20140925T070611Z">
@@ -513,6 +569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074439Z" creationid="corlletelab" creationdate="20140925T074439Z">
+        <seg>Общо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to login.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073946Z" creationid="corlletelab" creationdate="20140925T073946Z">
@@ -557,6 +621,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070850Z" creationid="corlletelab" creationdate="20140925T070850Z">
         <seg>Вашето запитване е изпратено успешно. Отговор ще ви бъде изпратен възможно най-скоро.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tax</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074527Z" creationid="corlletelab" creationdate="20140925T074527Z">
+        <seg>данък</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
