@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access denied.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073751Z" creationid="corlletelab" creationdate="20140925T073751Z">
+        <seg>Забранен достъп.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account Number</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071439Z" creationid="corlletelab" creationdate="20140925T071439Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071738Z" creationid="corlletelab" creationdate="20140925T071738Z">
         <seg>Грешка при създаване на изображение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client Session Timeout (sec.)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073806Z" creationid="corlletelab" creationdate="20140925T073806Z">
+        <seg>Изтичане на клиентска сесия (сек.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,6 +193,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failure History Lifetime</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073603Z" creationid="corlletelab" creationdate="20140925T073603Z">
+        <seg>Пълна хронология (Lifetime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For correct URLs generated during cron runs please make sure that Web &gt; Secure and Unsecure Base URLs are explicitly set.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073643Z" creationid="corlletelab" creationdate="20140925T073643Z">
+        <seg>За коректно генериране на уеб адреси по време на изпълнението на задачите, се убедете, че Уеб &gt; Подсигурено и Неподсигурено базово URL за изрично зададени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frequency</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072145Z" creationid="corlletelab" creationdate="20140925T072145Z">
@@ -221,6 +253,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072327Z" creationid="corlletelab" creationdate="20140925T072327Z">
         <seg>Управление на валутни курсове</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monthly</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073716Z" creationid="corlletelab" creationdate="20140925T073716Z">
+        <seg>Месечно</seg>
       </tuv>
     </tu>
     <tu>
@@ -317,6 +357,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070910Z" creationid="corlletelab" creationdate="20140925T070750Z">
         <seg>В момента е невъзможно изпращането на Вашето запитване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weekly</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073735Z" creationid="corlletelab" creationdate="20140925T073735Z">
+        <seg>Седмично</seg>
       </tuv>
     </tu>
     <tu>
