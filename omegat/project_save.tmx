@@ -193,6 +193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If empty, default value will be used.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072756Z" creationid="corlletelab" creationdate="20140925T072756Z">
+        <seg>Аако е празно, ще се използват стойности по подразбиране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072307Z" creationid="corlletelab" creationdate="20140925T072307Z">
@@ -301,14 +309,6 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070910Z" creationid="corlletelab" creationdate="20140925T070750Z">
         <seg>В момента е невъзможно изпращането на Вашето запитване.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Use Default</seg>
-      </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072519Z" creationid="corlletelab" creationdate="20140925T072519Z">
-        <seg>Използвай по подразбиране</seg>
       </tuv>
     </tu>
     <tu>
