@@ -14,6 +14,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 star</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075205Z" creationid="corlletelab" creationdate="20140925T075205Z">
+        <seg>1 звезда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 stars</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075207Z" creationid="corlletelab" creationdate="20140925T075207Z">
+        <seg>2 звезди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 stars</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075208Z" creationid="corlletelab" creationdate="20140925T075208Z">
+        <seg>3 звезди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 stars</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075209Z" creationid="corlletelab" creationdate="20140925T075209Z">
+        <seg>4 звезди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 stars</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075210Z" creationid="corlletelab" creationdate="20140925T075210Z">
+        <seg>5 звезди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href=""%s""&gt;Get Flash&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071821Z" creationid="corlletelab" creationdate="20140925T071821Z">
@@ -38,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add New Rating</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075214Z" creationid="corlletelab" creationdate="20140925T075214Z">
+        <seg>Добавяне на нов рейтинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074552Z" creationid="corlletelab" creationdate="20140925T074552Z">
@@ -50,6 +98,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071738Z" creationid="corlletelab" creationdate="20140925T071738Z">
         <seg>Грешка при създаване на изображение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assigned Options</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075253Z" creationid="corlletelab" creationdate="20140925T075253Z">
+        <seg>Налични опции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be the first to review this product</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075301Z" creationid="corlletelab" creationdate="20140925T075301Z">
+        <seg>Дайте първото мнение за този продукт</seg>
       </tuv>
     </tu>
     <tu>
@@ -169,6 +233,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default Value</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075308Z" creationid="corlletelab" creationdate="20140925T075308Z">
+        <seg>Стойност по подразбиране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Rating</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075314Z" creationid="corlletelab" creationdate="20140925T075314Z">
+        <seg>Изтриване на рейтинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directory ""%s"" must be writeable</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074309Z" creationid="corlletelab" creationdate="20140925T074109Z">
@@ -189,6 +269,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074201Z" creationid="corlletelab" creationdate="20140925T074201Z">
         <seg>Изключен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Rating</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075316Z" creationid="corlletelab" creationdate="20140925T075316Z">
+        <seg>Редакция на рейтинг</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,6 +489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No spaces or other characters are allowed.&lt;br /&gt;Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075130Z" creationid="corlletelab" creationdate="20140925T075130Z">
+        <seg>Не са посволени интервали или други вимволи.&lt;br /&gt;Вднакво изглеждаюи символи (напр. ""i"", ""l"", ""1"") намаляват шанса да бъдеат правилно разпознати от потребителите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Compiled</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074316Z" creationid="corlletelab" creationdate="20140925T074316Z">
@@ -477,6 +573,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072341Z" creationid="corlletelab" creationdate="20140925T072341Z">
         <seg>Валутни курсове</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload captcha</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075141Z" creationid="corlletelab" creationdate="20140925T075141Z">
+        <seg>Презареди картинката</seg>
       </tuv>
     </tu>
     <tu>
