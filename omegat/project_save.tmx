@@ -126,6 +126,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alert subscription has been saved.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081235Z" creationid="corlletelab" creationdate="20140925T081235Z">
+        <seg>Абониране за уведомяване е записано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Alert When Product Comes Back in Stock</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081254Z" creationid="corlletelab" creationdate="20140925T081254Z">
+        <seg>Позволи уведомяване, когато продуктът отново стане наличен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Alert When Product Price Changes</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081259Z" creationid="corlletelab" creationdate="20140925T081259Z">
+        <seg>Позволи уведомяване, когато цена на продукт се промени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074552Z" creationid="corlletelab" creationdate="20140925T074552Z">
@@ -210,6 +234,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075301Z" creationid="corlletelab" creationdate="20140925T075301Z">
         <seg>Дайте първото мнение за този продукт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here not to receive alerts for this product</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081333Z" creationid="corlletelab" creationdate="20140925T081333Z">
+        <seg>Кликнете тук за да не получавате повече уведомления за този продукт</seg>
       </tuv>
     </tu>
     <tu>
@@ -809,6 +841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not enough parameters.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081416Z" creationid="corlletelab" creationdate="20140925T081416Z">
+        <seg>Недостатъчно параметри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notifications</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080114Z" creationid="corlletelab" creationdate="20140925T080114Z">
@@ -929,10 +969,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Price:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081439Z" creationid="corlletelab" creationdate="20140925T081439Z">
+        <seg>Цена:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processed records: %s</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080917Z" creationid="corlletelab" creationdate="20140925T080917Z">
         <seg>Обработени записа: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product Alerts</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081454Z" creationid="corlletelab" creationdate="20140925T081454Z">
+        <seg>Уведомявания за продукти</seg>
       </tuv>
     </tu>
     <tu>
@@ -1509,6 +1565,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T081158Z" creationid="corlletelab" creationdate="20140925T081158Z">
         <seg>минута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>minutes</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081159Z" creationid="corlletelab" creationdate="20140925T081159Z">
+        <seg>минути</seg>
       </tuv>
     </tu>
     <tu>
