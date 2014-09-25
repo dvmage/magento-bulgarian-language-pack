@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>Click here not to receive alerts for this product</seg>
       </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081333Z" creationid="corlletelab" creationdate="20140925T081333Z">
-        <seg>Кликнете тук за да не получавате повече уведомления за този продукт</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082146Z" creationid="corlletelab" creationdate="20140925T081333Z">
+        <seg>Кликнете тук за да не получавате повече известия за този продукт</seg>
       </tuv>
     </tu>
     <tu>
@@ -1203,8 +1203,8 @@
       <tuv lang="EN-US">
         <seg>Sign up to get notified when this product is back in stock</seg>
       </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081704Z" creationid="corlletelab" creationdate="20140925T081704Z">
-        <seg>Запишете се за уведомяване, когато този продукт е отново в наличност</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082130Z" creationid="corlletelab" creationdate="20140925T081704Z">
+        <seg>Запишете се за получаване на известие, когато този продукт е отново в наличност</seg>
       </tuv>
     </tu>
     <tu>
