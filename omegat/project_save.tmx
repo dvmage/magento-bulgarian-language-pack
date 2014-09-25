@@ -425,10 +425,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please specify 8 symbols at the most.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074756Z" creationid="corlletelab" creationdate="20140925T074756Z">
+        <seg>Моля въведете най-много 8 символа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please type the letters below</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074916Z" creationid="corlletelab" creationdate="20140925T074916Z">
+        <seg>Моля въведете буквите по-долу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please type the letters from the image:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074934Z" creationid="corlletelab" creationdate="20140925T074934Z">
+        <seg>Моля въведете кода от картинката:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please use only letters (a-z or A-Z) or numbers (0-9) in this field.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T075000Z" creationid="corlletelab" creationdate="20140925T075000Z">
+        <seg>Моля използвайте само букви (a-z or A-Z) или чусла (0-9) в това поле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please, try again later</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070823Z" creationid="corlletelab" creationdate="20140925T070823Z">
         <seg>Моля, опитайте отново по-късно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range allowed (e.g. 3-5)</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074836Z" creationid="corlletelab" creationdate="20140925T074836Z">
+        <seg>Разрешен диапазон (напр. 3-5)</seg>
       </tuv>
     </tu>
     <tu>
