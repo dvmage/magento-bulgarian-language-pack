@@ -47,6 +47,102 @@
         <seg>Контакт</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact Us Form</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070458Z" creationid="corlletelab" creationdate="20140925T070458Z">
+        <seg>Форма за контакт с нас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070501Z" creationid="corlletelab" creationdate="20140925T070501Z">
+        <seg>Контакти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contacts Section</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070511Z" creationid="corlletelab" creationdate="20140925T070511Z">
+        <seg>Секция контакти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070512Z" creationid="corlletelab" creationdate="20140925T070512Z">
+        <seg>Имейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Options</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070522Z" creationid="corlletelab" creationdate="20140925T070522Z">
+        <seg>Имейл опции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Sender</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070527Z" creationid="corlletelab" creationdate="20140925T070527Z">
+        <seg>Имейл подател</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Template</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070529Z" creationid="corlletelab" creationdate="20140925T070529Z">
+        <seg>Имейл шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Contact Us</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070546Z" creationid="corlletelab" creationdate="20140925T070546Z">
+        <seg>Активирай Контакт с нас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070547Z" creationid="corlletelab" creationdate="20140925T070547Z">
+        <seg>Име</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send Emails To</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
+        <seg>Изпращане на имейли до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070609Z" creationid="corlletelab" creationdate="20140925T070609Z">
+        <seg>Добави</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070611Z" creationid="corlletelab" creationdate="20140925T070611Z">
+        <seg>Телефон</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
