@@ -121,6 +121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please, try again later</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070823Z" creationid="corlletelab" creationdate="20140925T070823Z">
+        <seg>Моля, опитайте отново по-късно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send Emails To</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
@@ -141,6 +149,30 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070611Z" creationid="corlletelab" creationdate="20140925T070611Z">
         <seg>Телефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you for contacting us.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070906Z" creationid="corlletelab" creationdate="20140925T070906Z">
+        <seg>Благодарим Ви, че се свързахте с нас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to submit your request.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070910Z" creationid="corlletelab" creationdate="20140925T070750Z">
+        <seg>В момента е невъзможно изпращането на Вашето запитване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your inquiry was submitted and will be responded to as soon as possible.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T070850Z" creationid="corlletelab" creationdate="20140925T070850Z">
+        <seg>Вашето запитване е изпратено успешно. Отговор ще ви бъде изпратен възможно най-скоро.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
