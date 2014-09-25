@@ -145,6 +145,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Email Recipient</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072134Z" creationid="corlletelab" creationdate="20140925T072134Z">
+        <seg>Имейл получател за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Email Sender</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072138Z" creationid="corlletelab" creationdate="20140925T072138Z">
+        <seg>Имейл подател за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Email Template</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072142Z" creationid="corlletelab" creationdate="20140925T072142Z">
+        <seg>Имейл шаблон за грешки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frequency</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072145Z" creationid="corlletelab" creationdate="20140925T072145Z">
+        <seg>Честота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Google API</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T071448Z" creationid="corlletelab" creationdate="20140925T071448Z">
@@ -181,6 +213,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
         <seg>Изпращане на имейли до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Time</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T072226Z" creationid="corlletelab" creationdate="20140925T072226Z">
+        <seg>Начало</seg>
       </tuv>
     </tu>
     <tu>
