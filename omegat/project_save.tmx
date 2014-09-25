@@ -62,6 +62,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compilation</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074030Z" creationid="corlletelab" creationdate="20140925T074030Z">
+        <seg>Компилация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compilation State</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074034Z" creationid="corlletelab" creationdate="20140925T074034Z">
+        <seg>Състояние на компилацията</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compilation error</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074039Z" creationid="corlletelab" creationdate="20140925T074039Z">
+        <seg>Грешка при компилиране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiled</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074043Z" creationid="corlletelab" creationdate="20140925T074043Z">
+        <seg>Компилирано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler Status</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074053Z" creationid="corlletelab" creationdate="20140925T074053Z">
+        <seg>Статус на компилатора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact Form</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T065909Z" creationid="corlletelab" creationdate="20140925T065909Z">
@@ -121,6 +161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directory ""%s"" must be writeable</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074109Z" creationid="corlletelab" creationdate="20140925T074109Z">
+        <seg>Директория "%s" трябва да бъде с права за писане</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Email</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070512Z" creationid="corlletelab" creationdate="20140925T070512Z">
@@ -169,6 +217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable WSDL Cache</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073841Z" creationid="corlletelab" creationdate="20140925T073841Z">
+        <seg>Включи WSDL кеширане</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error Email Recipient</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072134Z" creationid="corlletelab" creationdate="20140925T072134Z">
@@ -213,6 +269,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072145Z" creationid="corlletelab" creationdate="20140925T072145Z">
         <seg>Честота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Settings</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073856Z" creationid="corlletelab" creationdate="20140925T073856Z">
+        <seg>Основни настройки</seg>
       </tuv>
     </tu>
     <tu>
@@ -289,6 +353,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SOAP/XML-RPC - Roles</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073923Z" creationid="corlletelab" creationdate="20140925T073923Z">
+        <seg>SOAP/XML-RPC - Роли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOAP/XML-RPC - Users</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073936Z" creationid="corlletelab" creationdate="20140925T073936Z">
+        <seg>SOAP/XML-RPC - Потребители</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send Emails To</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
@@ -353,6 +433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to login.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073946Z" creationid="corlletelab" creationdate="20140925T073946Z">
+        <seg>Неуспешен вход.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to submit your request.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070910Z" creationid="corlletelab" creationdate="20140925T070750Z">
@@ -361,10 +449,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User Name</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T073957Z" creationid="corlletelab" creationdate="20140925T073957Z">
+        <seg>Потребител</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weekly</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073735Z" creationid="corlletelab" creationdate="20140925T073735Z">
         <seg>Седмично</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your account has been deactivated.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T074016Z" creationid="corlletelab" creationdate="20140925T074016Z">
+        <seg>Вашият профил е деактивиран.</seg>
       </tuv>
     </tu>
     <tu>
