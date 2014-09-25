@@ -1473,6 +1473,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082052Z" creationid="corlletelab" creationdate="20140925T081845Z">
+        <seg>Вие получавате това съобщение, понеже сте се абонирали за получаване на известия, когато следните продукти са отново в наличност:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082046Z" creationid="corlletelab" creationdate="20140925T081904Z">
+        <seg>Вие получавате това съобщение, понеже сте се абонирали за получаване на известия, когато цените на следните продукти се променят:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will no longer receive price alerts for this product.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082041Z" creationid="corlletelab" creationdate="20140925T081933Z">
+        <seg>Няма повече да получавате известия за промяна в цена за този продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will no longer receive stock alerts for this product.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082015Z" creationid="corlletelab" creationdate="20140925T082015Z">
+        <seg>Няма повече да получавате известия за промяна в наличностите за този продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your account has been deactivated.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074016Z" creationid="corlletelab" creationdate="20140925T074016Z">
