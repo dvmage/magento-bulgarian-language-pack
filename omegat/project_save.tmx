@@ -987,8 +987,8 @@
       <tuv lang="EN-US">
         <seg>Product Alerts</seg>
       </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081454Z" creationid="corlletelab" creationdate="20140925T081454Z">
-        <seg>Уведомявания за продукти</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082235Z" creationid="corlletelab" creationdate="20140925T081454Z">
+        <seg>Известия за продукти</seg>
       </tuv>
     </tu>
     <tu>
@@ -1257,6 +1257,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Successful</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082410Z" creationid="corlletelab" creationdate="20140925T082410Z">
+        <seg>Успешно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successful attempt</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082414Z" creationid="corlletelab" creationdate="20140925T082414Z">
+        <seg>Успешен опит</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbols</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T072503Z" creationid="corlletelab" creationdate="20140925T072503Z">
@@ -1491,16 +1507,24 @@
       <tuv lang="EN-US">
         <seg>You will no longer receive price alerts for this product.</seg>
       </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082041Z" creationid="corlletelab" creationdate="20140925T081933Z">
-        <seg>Няма повече да получавате известия за промяна в цена за този продукт.</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082328Z" creationid="corlletelab" creationdate="20140925T081933Z">
+        <seg>Няма повече да получавате известия за промяна в цена на този продукт.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You will no longer receive stock alerts for this product.</seg>
       </tuv>
-      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082015Z" creationid="corlletelab" creationdate="20140925T082015Z">
-        <seg>Няма повече да получавате известия за промяна в наличностите за този продукт.</seg>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082335Z" creationid="corlletelab" creationdate="20140925T082015Z">
+        <seg>Няма повече да получавате известия за промяна в наличностите на този продукт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will no longer receive stock alerts.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T082351Z" creationid="corlletelab" creationdate="20140925T082351Z">
+        <seg>Няма повече да получавате известия за наличности.</seg>
       </tuv>
     </tu>
     <tu>
