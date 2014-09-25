@@ -1081,6 +1081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regular Price:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081640Z" creationid="corlletelab" creationdate="20140925T081640Z">
+        <seg>Редовна цена:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reload captcha</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075141Z" creationid="corlletelab" creationdate="20140925T075141Z">
@@ -1185,6 +1193,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign up for price alert</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081648Z" creationid="corlletelab" creationdate="20140925T081648Z">
+        <seg>Запишете се за уведомяване за цена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sign up to get notified when this product is back in stock</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081704Z" creationid="corlletelab" creationdate="20140925T081704Z">
+        <seg>Запишете се за уведомяване, когато този продукт е отново в наличност</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip undefined row.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T081115Z" creationid="corlletelab" creationdate="20140925T081115Z">
@@ -1197,6 +1221,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075608Z" creationid="corlletelab" creationdate="20140925T075608Z">
         <seg>Подредба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special price:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081720Z" creationid="corlletelab" creationdate="20140925T081720Z">
+        <seg>Намалена цена:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1309,6 +1341,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080142Z" creationid="corlletelab" creationdate="20140925T080142Z">
         <seg>Съобщението беше изтрито.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product is not found.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081740Z" creationid="corlletelab" creationdate="20140925T081740Z">
+        <seg>Продуктът не е намерен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product was not found.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T081744Z" creationid="corlletelab" creationdate="20140925T081744Z">
+        <seg>Продуктът не беше намерен.</seg>
       </tuv>
     </tu>
     <tu>
