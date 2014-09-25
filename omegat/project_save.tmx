@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Account Number</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071439Z" creationid="corlletelab" creationdate="20140925T071439Z">
+        <seg>Номер на профил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T065903Z" creationid="corlletelab" creationdate="20140925T065903Z">
@@ -105,10 +113,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071444Z" creationid="corlletelab" creationdate="20140925T071444Z">
+        <seg>Включи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Contact Us</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070546Z" creationid="corlletelab" creationdate="20140925T070546Z">
         <seg>Активирай Контакт с нас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google API</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071448Z" creationid="corlletelab" creationdate="20140925T071448Z">
+        <seg>Гугъл API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Analytics</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140925T071523Z" creationid="corlletelab" creationdate="20140925T071523Z">
+        <seg>Гугъл статистика (Google Analytics)</seg>
       </tuv>
     </tu>
     <tu>
