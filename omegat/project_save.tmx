@@ -118,10 +118,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Answer</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054709Z" creationid="corlletelab" creationdate="20140926T054709Z">
+        <seg>Добави отговор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New Answer</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054726Z" creationid="corlletelab" creationdate="20140926T054720Z">
+        <seg>Добави нов отговор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New Poll</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054748Z" creationid="corlletelab" creationdate="20140926T054748Z">
+        <seg>Добави нова анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add New Rating</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075214Z" creationid="corlletelab" creationdate="20140925T075214Z">
         <seg>Добавяне на нов рейтинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Recipient</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054105Z" creationid="corlletelab" creationdate="20140926T054105Z">
+        <seg>Добави получател</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +178,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T081259Z" creationid="corlletelab" creationdate="20140925T081259Z">
         <seg>Позволи уведомяване, когато цена на продукт се промени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow for Guests</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054112Z" creationid="corlletelab" creationdate="20140926T054112Z">
+        <seg>Разреши за гости</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +246,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An invalid email address for recipient was entered.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054116Z" creationid="corlletelab" creationdate="20140926T054116Z">
+        <seg>Въведен е невалиден имейл за получател</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Answer Title</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054754Z" creationid="corlletelab" creationdate="20140926T054754Z">
+        <seg>Заглавие на отговор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Answer Title:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054757Z" creationid="corlletelab" creationdate="20140926T054757Z">
+        <seg>Заглавие на отговор:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Answer with the same title in this poll</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055037Z" creationid="corlletelab" creationdate="20140926T055037Z">
+        <seg>Отговор със същото заглавие в тази анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075640Z" creationid="corlletelab" creationdate="20140925T075640Z">
         <seg>Приложи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete it?</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055043Z" creationid="corlletelab" creationdate="20140926T055043Z">
+        <seg>Сигурен ли сте, че искате да го изтриете?</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +302,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigned Answers</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055048Z" creationid="corlletelab" creationdate="20140926T055048Z">
+        <seg>Присъединени отговори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assigned Options</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075253Z" creationid="corlletelab" creationdate="20140925T075253Z">
         <seg>Налични опции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least one recipient must be specified.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054123Z" creationid="corlletelab" creationdate="20140926T054123Z">
+        <seg>Трябва да бъде добавен минимум един получател</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054125Z" creationid="corlletelab" creationdate="20140926T054125Z">
+        <seg>Обратно</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +358,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Closed</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055055Z" creationid="corlletelab" creationdate="20140926T055055Z">
+        <seg>Затворено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T065903Z" creationid="corlletelab" creationdate="20140925T065903Z">
         <seg>Коментар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Community Poll</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055107Z" creationid="corlletelab" creationdate="20140926T055107Z">
+        <seg>Обществена анкета</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,6 +521,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date Closed</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055109Z" creationid="corlletelab" creationdate="20140926T055109Z">
+        <seg>Дата на затваряне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date Posted</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055111Z" creationid="corlletelab" creationdate="20140926T055111Z">
+        <seg>Дата на публикуване</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Declared adapter %s was not found.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080502Z" creationid="corlletelab" creationdate="20140925T080502Z">
@@ -413,6 +549,30 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075308Z" creationid="corlletelab" creationdate="20140925T075308Z">
         <seg>Стойност по подразбиране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055112Z" creationid="corlletelab" creationdate="20140926T055112Z">
+        <seg>Изтрий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Answer</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055114Z" creationid="corlletelab" creationdate="20140926T055114Z">
+        <seg>Изтрий отговор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Poll</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055115Z" creationid="corlletelab" creationdate="20140926T055115Z">
+        <seg>Изтрий анкета</seg>
       </tuv>
     </tu>
     <tu>
@@ -449,10 +609,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disallow Voting in a Poll Multiple Times from Same IP-address</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055123Z" creationid="corlletelab" creationdate="20140926T055123Z">
+        <seg>Забрани гласуване повече от един път от същия IP адрес в анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080521Z" creationid="corlletelab" creationdate="20140925T080521Z">
         <seg>Готово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Answer '%s'</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055128Z" creationid="corlletelab" creationdate="20140926T055128Z">
+        <seg>Редакция на отговор '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Poll '%s'</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055130Z" creationid="corlletelab" creationdate="20140926T055130Z">
+        <seg>Редакция на анкета '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Poll Answer</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055143Z" creationid="corlletelab" creationdate="20140926T055143Z">
+        <seg>Редактирай отговор на анкета</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +661,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070512Z" creationid="corlletelab" creationdate="20140925T070512Z">
         <seg>Имейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Address</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054145Z" creationid="corlletelab" creationdate="20140926T054145Z">
+        <seg>Имейл адрес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Address:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054156Z" creationid="corlletelab" creationdate="20140926T054156Z">
+        <seg>Имейл адрес:</seg>
       </tuv>
     </tu>
     <tu>
@@ -493,6 +701,30 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070529Z" creationid="corlletelab" creationdate="20140925T070529Z">
         <seg>Имейл шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Templates</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054212Z" creationid="corlletelab" creationdate="20140926T054212Z">
+        <seg>Шаблони за имейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email to a Friend</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054219Z" creationid="corlletelab" creationdate="20140926T054219Z">
+        <seg>Изпрати на приятел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054222Z" creationid="corlletelab" creationdate="20140926T054222Z">
+        <seg>Имейл:</seg>
       </tuv>
     </tu>
     <tu>
@@ -689,10 +921,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid Answer.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055148Z" creationid="corlletelab" creationdate="20140926T055148Z">
+        <seg>Невалиден отговор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Sender Information</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054226Z" creationid="corlletelab" creationdate="20140926T054226Z">
+        <seg>Грешна информация за подател</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid discount amount.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075743Z" creationid="corlletelab" creationdate="20140925T075743Z">
         <seg>Грешна стойност за отстъпка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid sender email.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054228Z" creationid="corlletelab" creationdate="20140926T054228Z">
+        <seg>Грешен имейл за подател</seg>
       </tuv>
     </tu>
     <tu>
@@ -709,6 +965,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080739Z" creationid="corlletelab" creationdate="20140925T080739Z">
         <seg>По-малко от минута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limit Sending By</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054234Z" creationid="corlletelab" creationdate="20140926T054234Z">
+        <seg>Ограничи изпращането по</seg>
       </tuv>
     </tu>
     <tu>
@@ -761,6 +1025,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max Products Sent in 1 Hour</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054237Z" creationid="corlletelab" creationdate="20140926T054237Z">
+        <seg>Максимален бр. продукти изпратени за 1 час</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max Recipients</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054240Z" creationid="corlletelab" creationdate="20140926T054240Z">
+        <seg>Максимален бр. получатели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum %d email addresses allowed.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054247Z" creationid="corlletelab" creationdate="20140926T054247Z">
+        <seg>Разрешени са максимум %d имейл адреси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memory Used: %s</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080809Z" creationid="corlletelab" creationdate="20140925T080809Z">
@@ -773,6 +1061,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080109Z" creationid="corlletelab" creationdate="20140925T080109Z">
         <seg>Съобщение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054249Z" creationid="corlletelab" creationdate="20140926T054249Z">
+        <seg>Съобщение:</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,10 +1113,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054254Z" creationid="corlletelab" creationdate="20140926T054254Z">
+        <seg>Име:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Poll</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055149Z" creationid="corlletelab" creationdate="20140926T055149Z">
+        <seg>Нова анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Rating</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075420Z" creationid="corlletelab" creationdate="20140925T075420Z">
         <seg>Нов рейтинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No more than %d emails can be sent at a time.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054404Z" creationid="corlletelab" creationdate="20140926T054404Z">
+        <seg>Не повече от %d съобщения могат да се изпращат едновременно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -857,6 +1177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of Responses</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055338Z" creationid="corlletelab" creationdate="20140926T055338Z">
+        <seg>Борй участия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of Symbols</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074710Z" creationid="corlletelab" creationdate="20140925T074710Z">
@@ -869,6 +1197,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T074729Z" creationid="corlletelab" creationdate="20140925T074729Z">
         <seg>Брой неуспешни опити за вход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055458Z" creationid="corlletelab" creationdate="20140926T055458Z">
+        <seg>Отвори</seg>
       </tuv>
     </tu>
     <tu>
@@ -901,6 +1237,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080910Z" creationid="corlletelab" creationdate="20140925T080910Z">
         <seg>Моля декларирайте първо ""adapter"" и ""method"" елементи."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please define the correct Sender information.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054433Z" creationid="corlletelab" creationdate="20140926T054433Z">
+        <seg>Моля посочете коректна информация за получател.</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,6 +1309,62 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080228Z" creationid="corlletelab" creationdate="20140925T080228Z">
         <seg>Моля, опитайте отново.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poll Answers</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055505Z" creationid="corlletelab" creationdate="20140926T055505Z">
+        <seg>Отговори от анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poll Information</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055507Z" creationid="corlletelab" creationdate="20140926T055507Z">
+        <seg>Информация за анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poll Manager</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055509Z" creationid="corlletelab" creationdate="20140926T055509Z">
+        <seg>Управление на анкети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poll Question</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055519Z" creationid="corlletelab" creationdate="20140926T055519Z">
+        <seg>Въпрос от анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poll information</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055522Z" creationid="corlletelab" creationdate="20140926T055522Z">
+        <seg>Информация за анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poll with the same question</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055528Z" creationid="corlletelab" creationdate="20140926T055528Z">
+        <seg>Анкета със същия въпрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polls</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055530Z" creationid="corlletelab" creationdate="20140926T055530Z">
+        <seg>Анкети</seg>
       </tuv>
     </tu>
     <tu>
@@ -1081,6 +1481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recipient:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054435Z" creationid="corlletelab" creationdate="20140926T054435Z">
+        <seg>Получател:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regular Price:</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T081640Z" creationid="corlletelab" creationdate="20140925T081640Z">
@@ -1129,6 +1537,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Answer</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055531Z" creationid="corlletelab" creationdate="20140926T055531Z">
+        <seg>Запиши отговор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Poll</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055533Z" creationid="corlletelab" creationdate="20140926T055533Z">
+        <seg>Запиши анкета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Rating</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075556Z" creationid="corlletelab" creationdate="20140925T075556Z">
@@ -1153,10 +1577,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Email Template</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054502Z" creationid="corlletelab" creationdate="20140926T054502Z">
+        <seg>Избери шаблон за имейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send Email</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054504Z" creationid="corlletelab" creationdate="20140926T054504Z">
+        <seg>Изпрати имейл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send Emails To</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T070604Z" creationid="corlletelab" creationdate="20140925T070604Z">
         <seg>Изпращане на имейли до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send product to a friend</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054517Z" creationid="corlletelab" creationdate="20140926T054517Z">
+        <seg>Изпрати продукт на приятел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sender:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054519Z" creationid="corlletelab" creationdate="20140926T054519Z">
+        <seg>Подател:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1217,6 +1673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some emails were not sent.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054523Z" creationid="corlletelab" creationdate="20140926T054523Z">
+        <seg>Някои имейли не са изпратени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort Order</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T075608Z" creationid="corlletelab" creationdate="20140925T075608Z">
@@ -1245,6 +1709,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T081125Z" creationid="corlletelab" creationdate="20140925T081125Z">
         <seg>Стартиране %s :: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055534Z" creationid="corlletelab" creationdate="20140926T055534Z">
+        <seg>Статус</seg>
       </tuv>
     </tu>
     <tu>
@@ -1321,6 +1793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The answer has been saved.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055537Z" creationid="corlletelab" creationdate="20140926T055537Z">
+        <seg>Отговорът е записан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The card has failed verification with the issuer bank.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T082500Z" creationid="corlletelab" creationdate="20140925T082500Z">
@@ -1353,6 +1833,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The link to a friend was sent.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054532Z" creationid="corlletelab" creationdate="20140926T054532Z">
+        <seg>Линка до приятел е изпратен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The message cannot be empty.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054535Z" creationid="corlletelab" creationdate="20140926T054535Z">
+        <seg>Съобшението не може да бъде празно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The message has been marked as read.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080137Z" creationid="corlletelab" creationdate="20140925T080137Z">
@@ -1365,6 +1861,22 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T080142Z" creationid="corlletelab" creationdate="20140925T080142Z">
         <seg>Съобщението беше изтрито.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The messages cannot be sent more than %d times in an hour</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054542Z" creationid="corlletelab" creationdate="20140926T054542Z">
+        <seg>Съобщението не може да бъде изпратено повече от %d пъти на час</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The poll does not exist.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055540Z" creationid="corlletelab" creationdate="20140926T055540Z">
+        <seg>Анкетата не съществува.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1385,6 +1897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sender name cannot be empty.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054545Z" creationid="corlletelab" creationdate="20140926T054545Z">
+        <seg>Името на подател не може да бъде празно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There has been wrong payment information submitted or the time limit has expired.</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T082523Z" creationid="corlletelab" creationdate="20140925T082523Z">
@@ -1397,6 +1917,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T082602Z" creationid="corlletelab" creationdate="20140925T082602Z">
         <seg>Изпратена е грешна информация за плащане или е надхвърлен лимита на време за изпълнение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were some problems with the data.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054612Z" creationid="corlletelab" creationdate="20140926T054612Z">
+        <seg>Възникнаха проблеми с данните.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,6 +1997,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T082637Z" creationid="corlletelab" creationdate="20140925T082637Z">
         <seg>Завършването невъзможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to find an answer to delete.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055545Z" creationid="corlletelab" creationdate="20140926T055545Z">
+        <seg>Невъзможно е намирането на отговор за изтриване.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1561,6 +2097,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vote</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055549Z" creationid="corlletelab" creationdate="20140926T055549Z">
+        <seg>Гласуване</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Votes Count</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055551Z" creationid="corlletelab" creationdate="20140926T055551Z">
+        <seg>Брой гласувания</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Votes Count:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T055553Z" creationid="corlletelab" creationdate="20140926T055553Z">
+        <seg>Брой гласувания:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weekly</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T073735Z" creationid="corlletelab" creationdate="20140925T073735Z">
@@ -1589,6 +2149,14 @@
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T082046Z" creationid="corlletelab" creationdate="20140925T081904Z">
         <seg>Вие получавате това съобщение, понеже сте се абонирали за получаване на известия, когато цените на следните продукти се променят:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have exceeded limit of %d sends in an hour</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T054700Z" creationid="corlletelab" creationdate="20140926T054700Z">
+        <seg>Лимита от %d изпратени имейла на час е надхвърлен</seg>
       </tuv>
     </tu>
     <tu>
