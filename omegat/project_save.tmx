@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>""%s"" coupon code is not valid.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071212Z" creationid="corlletelab" creationdate="20140926T071212Z">
+        <seg>""%s"" е невалиден код на талон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s / %s rate:</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071235Z" creationid="corlletelab" creationdate="20140926T071235Z">
+        <seg>%s / %s курс:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s for %s</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071241Z" creationid="corlletelab" creationdate="20140926T071241Z">
+        <seg>%s за %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Required Fields</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T065901Z" creationid="corlletelab" creationdate="20140925T065901Z">
