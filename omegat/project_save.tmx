@@ -30,10 +30,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s order(s) cannot be canceled</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071334Z" creationid="corlletelab" creationdate="20140926T071334Z">
+        <seg>%s поръчка(и) не може да бъдат отказани</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s order(s) have been canceled.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071405Z" creationid="corlletelab" creationdate="20140926T071405Z">
+        <seg>%s поръчка(и) бяха отменени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s order(s) have been put on hold.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071423Z" creationid="corlletelab" creationdate="20140926T071423Z">
+        <seg>%s поръчка(и) бяха направени в изчакване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s order(s) have been released from holding status.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071447Z" creationid="corlletelab" creationdate="20140926T071447Z">
+        <seg>%s поръчка(и) бяха освободени от статус в изчакване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s order(s) were not put on hold.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071519Z" creationid="corlletelab" creationdate="20140926T071519Z">
+        <seg>%s поръчкa(и) не бяха направени в изчакване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s order(s) were not released from holding status.</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071537Z" creationid="corlletelab" creationdate="20140926T071537Z">
+        <seg>%s поръчка(и) не бяха освободени от статус в изчакване.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Required Fields</seg>
       </tuv>
       <tuv lang="BG" changeid="corlletelab" changedate="20140925T065901Z" creationid="corlletelab" creationdate="20140925T065901Z">
         <seg>* Задължителни полета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-- Please Select --</seg>
+      </tuv>
+      <tuv lang="BG" changeid="corlletelab" changedate="20140926T071602Z" creationid="corlletelab" creationdate="20140926T071602Z">
+        <seg>-- Моля изберете --</seg>
       </tuv>
     </tu>
     <tu>
